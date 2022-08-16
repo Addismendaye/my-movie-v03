@@ -1,1 +1,1 @@
-# A basic movie lookup application using OMDb API, using Vite. Check it out!
+Create a reusable movie component and display all search results instead of just the first one, and use a state manager to coordinate showing the components.  Also add the ability to add a movie to favorites, which will be loaded and displayed when the site loads. Finally, add the ability to let users leave a note attached to a movie which will be displayed whenever the movie is viewed
